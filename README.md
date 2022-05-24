@@ -5,7 +5,7 @@
 This repository hosts all the documents, including scans of the sources, transcriptions, bibliographical references and introduction that serve the team Boccace for the validation of the course "Bonnes pratiques du developpement collaboratif : initiation à Git" (prof. Thibault Clérice), of the first semester - Master Humanités Numériques ENC-PSL 2021-2022. At the same time the project is indirectly linked to  biannual project "Per un'edizione digitale della Genealogia deorum gentilium" di Boccaccio" (dir. F. Duval, M. Maulu). Financed in 2021, this project foresees to put on line in XML format the unpublished translation in Middle French entitled "De la genealogie des dieux".
 
 
- # **Getting familiar with the database**
+ # **Getting familiar with the dataset**
 
 The work: Treatise on mythology. Its first version composed between 1347 and 1360 at the request of Hugues IV de Lusignan, then revised and enlarged after his death in 1359. Its textual tradition is particular as in 1371 Boccaccio allowed a friend to make a copy of an autograph MS, now lost, of the Genealogia, and from that first apograph other copies were made. The text of the lost autograph is now called the Vulgate text[Wilkins_1919,65] which was widely diffused.
 
